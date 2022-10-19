@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 29 12:52:08 2022
 
-@author: eur10057
-"""
 #IMPORTS
 import numpy as np  
 import tensorflow.keras.backend as K
