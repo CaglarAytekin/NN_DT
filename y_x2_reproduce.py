@@ -6,9 +6,9 @@ Created on Mon Aug 29 12:52:08 2022
 """
 #IMPORTS
 import numpy as np  
-import keras.backend as K
-from keras.layers import Dense,LeakyReLU
-from keras.models import Sequential
+import tensorflow.keras.backend as K
+from tensorflow.keras.layers import Dense,LeakyReLU
+from tensorflow.keras.models import Sequential
 import matplotlib.pyplot as plt
 
 #MAXIMIZE NUMERICAL ACCURACY
